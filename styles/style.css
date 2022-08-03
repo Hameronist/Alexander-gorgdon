@@ -1415,6 +1415,11 @@ h1 {
 }
 
 @media screen and (max-width:430px) {
+    
+    .big-text{
+        width: 320px;
+    }
+    
     .logo{
         width: 300px;
         font-size: 38px;
