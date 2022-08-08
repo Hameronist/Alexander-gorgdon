@@ -1601,5 +1601,20 @@ h1 {
 
         width: 170px;
     }
+    
+    .big-text {
+        height: 370px;
+        width: 300px;
+        font-size: 17px;
+    }
+    
+    .recording {
+        font-size: 18px;
+        width: 300px;
+    }
+    
+    .baton {
+        height: 1700px;
+    }
 
 }
