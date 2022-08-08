@@ -1617,5 +1617,14 @@ h1 {
     .baton {
         height: 1700px;
     }
-
+    
+    .youtube{
+        width: 300px;
+        height: 150px;
+    }
+    
+    .video{
+        width: 300px;
+        height: 150px;
+    }
 }
