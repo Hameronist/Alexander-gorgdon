@@ -1502,7 +1502,7 @@ h1 {
     }
 
     .bio {
-        height: 2970px;
+        height: 3370px;
     }
 
     .brackets {
@@ -1631,3 +1631,9 @@ h1 {
     .media{
         height: 800px;
     }
+    
+    .columns{
+        margin-bottom: 50px;
+    }
+    
+}
