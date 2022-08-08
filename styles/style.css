@@ -1488,7 +1488,7 @@ h1 {
     }
 
     .logon {
-        margin: 0 0 0 50px;
+        margin: 0 0 0 80px;
         letter-spacing: 2px;
         width: 160px;
         font-size: 30px;
@@ -1497,7 +1497,7 @@ h1 {
     .conductor {
         display: block;
         width: 150px;
-        margin: 0 0 0 50px;
+        margin: 0 0 0 110px;
         letter-spacing: 2px;
         font-size: 17px;
     }
