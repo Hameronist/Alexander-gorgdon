@@ -1483,20 +1483,20 @@ h1 {
     .logo {
         margin: 0 0 0 50px;
         letter-spacing: 2px;
-        width: 210px;
-        font-size: 30px;
+        width: 205px;
+        font-size: 28px;
     }
 
     .logon {
         margin: 0 0 0 80px;
         letter-spacing: 2px;
-        width: 160px;
-        font-size: 30px;
+        width: 155px;
+        font-size: 28px;
     }
 
     .conductor {
         display: block;
-        width: 150px;
+        width: 145px;
         margin: 0 0 0 110px;
         letter-spacing: 2px;
         font-size: 17px;
@@ -1639,6 +1639,10 @@ h1 {
     
     .columns{
         margin-bottom: 50px;
+    }
+    
+    .double {
+        width: 330px;
     }
     
 }
