@@ -1483,15 +1483,15 @@ h1 {
     .logo {
         margin: 0 0 0 50px;
         letter-spacing: 2px;
-        width: 205px;
-        font-size: 28px;
+        width: 195px;
+        font-size: 26px;
     }
 
     .logon {
         margin: 0 0 0 80px;
         letter-spacing: 2px;
-        width: 155px;
-        font-size: 28px;
+        width: 145px;
+        font-size: 26px;
     }
 
     .conductor {
@@ -1599,6 +1599,7 @@ h1 {
     }
 
     .date{
+        text-align: start;
         padding-right: 15px;
     }
     
