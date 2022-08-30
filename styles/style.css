@@ -1481,17 +1481,21 @@ h1 {
     }
 
     .logo {
+        display: flex;
+        justify-content: center;
         margin: 0 0 0 50px;
         letter-spacing: 2px;
-        width: 100%;
-        font-size: 18px;
+        width: 200px;
+        font-size: 22px;
     }
 
     .logon {
+        display: flex;
+        justify-content: center;
         margin: 0 0 0 80px;
         letter-spacing: 2px;
-        width: 100%;
-        font-size: 18px;
+        width: 200px;
+        font-size: 22px;
     }
 
     .conductor {
@@ -1499,7 +1503,7 @@ h1 {
         width: 145px;
         margin: 0 0 0 110px;
         letter-spacing: 2px;
-        font-size: 17px;
+        font-size: 15px;
     }
 
     .coloron {
