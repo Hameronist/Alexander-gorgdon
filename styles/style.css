@@ -1492,7 +1492,7 @@ h1 {
     .logon {
         display: flex;
         justify-content: center;
-        margin: 0 0 0 80px;
+        margin: 0 0 0 50px;
         letter-spacing: 2px;
         width: 200px;
         font-size: 22px;
@@ -1501,7 +1501,7 @@ h1 {
     .conductor {
         display: block;
         width: 145px;
-        margin: 0 0 0 110px;
+        margin: 0 0 0 90px;
         letter-spacing: 2px;
         font-size: 15px;
     }
